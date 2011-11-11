@@ -7,7 +7,7 @@ if __name__ == '__main__':
     word = raw_input("Who do you sex for? ")
 
 for letter in word:
-    call = "Gimme a " + letter + "!"
+    call = "Gimme an " + letter + "!"
     print call
     print letter + "!"
 print "What does that spell?"
