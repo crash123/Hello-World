@@ -12,6 +12,5 @@ for letter in word:
     print letter + "!"
 print "What does that spell?"
 print word + "2"
-print "Hi i'm robbie"
     
     
